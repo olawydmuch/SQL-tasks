@@ -60,7 +60,7 @@ Poniżej przedtawiono podstawowe komendy SQL
 		WHERE column_name IS NULL;
 
 
-  ## Subtask 3
+  ## Subtask 2
 
 **1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**
 
@@ -134,7 +134,6 @@ Poniżej przedtawiono podstawowe komendy SQL
 	
 ![10](https://github.com/olawydmuch/challenge_portfolio_olaw/assets/131545880/280fa9e9-17e2-4012-9c06-057af6cf6e61)
 
-## Subtask 1
 
 **11. Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈**
 
